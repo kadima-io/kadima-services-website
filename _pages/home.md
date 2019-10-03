@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Managed Services
+title: <i class="fas fa-laptop"></i> Managed Services 
 classes: wide
 permalink: /
 excerpt: Kadima provides managed services in the areas below. Project experts are allocated based on your project’s needs. Typically two (2) week setup time for managed services. Project Manager required for all projects.
@@ -9,17 +9,16 @@ header:
   overlay_filter: 0.75 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Project Management Services
-
+## <i class="fas fa-tasks"></i> Project Management Services 
 A PM will manage your project and team to ensure that everything goes smoothly.
 
-## Product Development Services
+## <i class="fas fa-flask"></i> Product Development Services
 
 * Product Management
 * Product R&D and Design
 * Product Development (Hardware and Software)
 
-## Software Development Services
+## <i class="fas fa-code"></i> Software Development Services
 
 * Software Architecture
 * Front End Development, Web and Mobile
@@ -31,7 +30,7 @@ A PM will manage your project and team to ensure that everything goes smoothly.
   * NodeJS
   * C/C++
 
-## Design Services
+## <i class="fas fa-palette"></i> Design Services
 
 * User Experience Design (UX)
 * User Interface Design (UI)
@@ -42,7 +41,7 @@ A PM will manage your project and team to ensure that everything goes smoothly.
 * 2D/3D animation (non character)
 * VR environments
 
-## SysOps, Cloud & Infrastructure Services
+## <i class="fas fa-cloud"></i> SysOps, Cloud & Infrastructure Services
 
 * Cloud Architecture
 * Cloud Migration
@@ -72,7 +71,7 @@ A PM will manage your project and team to ensure that everything goes smoothly.
   * Network/Virtual
   * Smart Building Automation
 
-## DevOps Services
+## <i class="fas fa-magic"></i> DevOps Services
 
 * Continuous Integration / Continuous Delivery (CI/CD) Pipelines
 * Infrastructure and Configuration as Code Development and Management (Terraform, Ansible, Chef, Puppet, etc.)
